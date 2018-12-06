@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\FacebookApp.exe
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\FacebookApp.pdb
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\Facebook.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\FacebookAppLogic.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\bin\Debug\FacebookAppLogic.pdb
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookPlayer.FacebookPlayerForm.resources
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.FormAdvancedSearcher.resources
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.FormMain.resources
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.Properties.Resources.resources
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookPlayer.SongPlayerController.resources
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.csproj.CopyComplete
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.exe
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookApp\obj\Debug\FacebookApp.pdb

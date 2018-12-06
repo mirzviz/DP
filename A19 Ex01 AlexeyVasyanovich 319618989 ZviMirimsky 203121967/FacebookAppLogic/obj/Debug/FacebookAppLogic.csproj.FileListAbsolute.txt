@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\bin\Debug\FacebookAppLogic.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\bin\Debug\FacebookAppLogic.pdb
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\bin\Debug\Facebook.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\obj\Debug\FacebookAppLogic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\obj\Debug\FacebookAppLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\obj\Debug\FacebookAppLogic.csproj.CopyComplete
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\obj\Debug\FacebookAppLogic.dll
+C:\Users\user\Desktop\Colledge\Third year\Semester A\Design Patterns\assignments\1\answer\A19 Ex01 AlexeyVasyanovich 319618989 ZviMirimsky 203121967\FacebookAppLogic\obj\Debug\FacebookAppLogic.pdb
